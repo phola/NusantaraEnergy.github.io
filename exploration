@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Nusantara Energy Plc | Exploration</title>
+
+<!--
+  Running MySource Matrix
+  Developed by Squiz - http://www.squiz.net
+  MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 09 January 2014 20:53:06
+-->
+
+
+
+</head>
+			<link rel="stylesheet" type="text/css" href="http://matrixenv2.intendance.com/_design/nusantara/design_5878/main.css" media="all" />
+					
+<!-- metadata //-->
+
+<!-- optimisation //-->
+<meta name="title" content="Nusantara Energy PLC" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+<!-- presentation //-->
+<meta name="image" content="15654" />
+
+
+</head>
+
+<body>
+<div id="all">
+    <div id="header">
+          <div id="header_left">
+            <a href="#"><img src="./?a=5891" alt="Nusantara Energy Plc" border="0" /></a> 
+        </div>
+        <div id="search">
+            <!-- search form -->
+            <form method="get" action="http://intendance2.clients.squiz.co.uk/nusantara/search">
+            <input type="hidden" name="mode" value="results" />
+            <input type="text" name="queries_all_query" value="Search" size="25" class="sq-form-field" id="queries_keyword_query"  onfocus="if (this.value == 'Search') { this.value = ''; }" onblur="if (this.value == '') { this.value='Search'; }" />                
+            <input type="submit" id="btn" value="Go" />
+            </form> 
+            <!-- end search form -->
+        </div>
+  </div>
+      
+      <div id="main">
+        <div id="left_col">
+        <!-- menu -->
+            <div id="main_menu">
+            		
+
+        <ul>
+                <li>
+        <a href="http://neplc.net/about_us" class="normal">
+        About Us</a></li>
+                <li>
+        <a href="http://neplc.net/mining_operations" class="normal">
+        Mining Operations</a></li>
+                <li>
+        <a href="http://neplc.net/sustainable_development" class="normal">
+        Sustainable Development</a></li>
+                <li>
+        <a href="http://neplc.net/exploration" class="current">
+        Exploration</a></li>
+                <li>
+        <a href="http://neplc.net/important_information" class="normal">
+        Important Information</a></li>
+                <li>
+        <a href="http://neplc.net/contact_us" class="normal">
+        Contact Us</a></li>
+                </ul>
+         
+        
+						
+       </div>
+     <!-- end menu -->
+
+             <div id="sub_menu">
+            		
+
+          </div>
+
+        </div>
+        <div id="right_col">
+            <div id="banner"><img src="./?a=15654" />
+            <h1>Exploration</h1>
+            </div>
+            <div id="main_content">
+                <!-- body -->
+                
+		
+<div id="content_div_5936">
+<p><img class="pad_left" alt="drillers2" src="http://neplc.net/__data/assets/image/0019/16084/drillers2.jpg" align="right" /></p>
+
+<p>NE&nbsp;PLC has engaged leading international experts to conduct and supervise the exploration project at Jambi.&nbsp; Major contributors have included Wardell Armstrong from the UK, Britmindo co-ordinating the project from Indonesia, with Boart Longyear and Connell Wagner conducting drilling and logistics respectively.&nbsp;</p>
+
+<p>The main exploration programme ran from March to September 2008, with a follow-up programme running in January and February 2009.</p>
+</div>
+          </div>
+        </div>
+        <div class="clear">&nbsp;</div>        
+      </div>
+      
+      <div id="footer">
+          <a href="http://neplc.net/exploration">Home</a> / <a href="http://neplc.net/terms">Terms</a> / <a href="http://neplc.net/sitemap">Sitemap</a> / <a href="http://www.intendance.com/" title="website design london" target="_blank">Site by Intendance</a> <BR />
+
+        <span class="notes">&copy;Nusantara Energy Plc 2008</span>
+  </div>
+</div>
+
+
+</body>
+</html>
